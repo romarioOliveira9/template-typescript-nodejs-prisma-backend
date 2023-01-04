@@ -15,8 +15,8 @@
     "prisma": "prisma"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "@prisma/client": "4.2.1"
+    "@prisma/client": "4.2.1",
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.1",
@@ -39,10 +39,10 @@
     "eslint-plugin-standard": "^4.0.1",
     "jest": "^26.0.1",
     "prettier": "^2.0.5",
+    "prisma": "4.2.1",
     "ts-jest": "^26.1.0",
-    "ts-node-dev": "^1.0.0-pre.49",
+    "ts-node-dev": "^1.1.8",
     "tsconfig-paths": "^3.9.0",
-    "typescript": "^3.9.5",
-    "prisma": "4.2.1"
+    "typescript": "^3.9.5"
   }
 }
